@@ -20,8 +20,8 @@ This is a solution to the [Equalizer landing page](https://www.frontendmentor.io
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Equalizer-Landing-Page)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Equalizer-Landing-Page/)
 
 ## My process
 
